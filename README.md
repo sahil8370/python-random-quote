@@ -6,7 +6,7 @@ When complete, you'll be able to grab random quotes from the command line, like 
 
 > **$** python get-quote.py
 > 
-> Keep it logically awesome
+> Keep it logically awesome and fantastic
 > 
 > **$** python get-quote.py
 > 
